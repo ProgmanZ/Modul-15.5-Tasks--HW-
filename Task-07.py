@@ -31,8 +31,5 @@ for container in range(containers):
 
 new_container = weight_input(new_dialog)
 numb = search_place(new_container, data_containers)
-<<<<<<< HEAD
 
-=======
->>>>>>> origin/main
 print('Номер, куда встанет новый контейнер: ', numb)
